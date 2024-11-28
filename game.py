@@ -337,4 +337,4 @@ if __name__ == '__main__':
     print_dramatic_text("You take flight on the back of the winged beast and return to Monstadt City to tell the people that peace has been restored!")
 
     print("")
-    print_dramatic_text("-------THE--------")
+    print_dramatic_text("-------THE END--------")
