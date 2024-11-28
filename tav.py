@@ -33,9 +33,7 @@ class Tav:
         print('Max Energy: ' + str(self.MAXEnergy))
 
 
-    # def attack(self) -> float:
-    #     na = random.uniform(self.ATK * .2, self.ATK * 3)
-    #     return na
+
 
 
     def assign_stats(self):
@@ -46,5 +44,6 @@ class Tav:
         self.DEF = stats[2]
         self.MAXEnergy = stats[3]
         self.CurrentHP = self.MAXHP
+
 
 
